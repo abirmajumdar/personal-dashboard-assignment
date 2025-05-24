@@ -1,0 +1,43 @@
+{
+  "name": "Abir Majumdar",
+  "bio": "Final year Computer Science student passionate about web development (MERN STACK) and AI.",
+  "contact": "majumdarabir02@gmail.com",
+  "academics": [
+    "Selected for M.Tech in Cyber-Physical Systems at IIT Kharagpur",
+    "B.Tech in Computer Science and Engineering – MAKAUT (2021–2025)",
+    "Backend Developer Intern at NexusCare (May 2024 – June 2024)",
+    "Final Year Project: Phishing Website Detection using Machine Learning"
+  ],
+  "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Tailwind CSS", "Next.js"],
+  "extras": [
+    "Enjoy music and chess",
+    "Aspire to become a Full Stack Developer",
+    "Certified in React and Python"
+  ],
+  "projects": [
+    {
+      "title": "Malicious Website Detection System",
+      "description": "Built a machine learning model using Random Forest to classify websites as malicious or legitimate. Integrated with a Flask web interface.",
+      "live": "https://jade-smakager-863ccb.netlify.app/",
+      "github": "https://github.com/abirmajumdar/malecious-url-detection.git"
+    },
+    {
+      "title": "Homestay Booking Application",
+      "description": "Full-stack MERN application for booking homestays. Includes user auth, property listing, booking management, and dynamic availability.",
+      "live": "https://spontaneous-cajeta-de71f8.netlify.app/",
+      "github": "https://github.com/abirmajumdar/Homestay-booking.git"
+    },
+    {
+      "title": "Real-Time Chat Application",
+      "description": "Real-time chat app built using Socket.IO, React, and Node.js. Features include live messaging, typing indicator, and timestamps.",
+      "live": "https://keen-horse-50a6fd.netlify.app/",
+      "github": "https://github.com/abirmajumdar/real-time-chat.git"
+    },
+    {
+      "title": "Teacher-Student Portal",
+      "description": "An online teaching assistant platform for managing batches, assignments, video content, and student-teacher interaction.",
+      "live": "https://spontaneous-cajeta-de71f8.netlify.app/",
+      "github": "https://github.com/abirmajumdar/teacher-student-portal"
+    }
+  ]
+}
