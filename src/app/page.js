@@ -4,6 +4,8 @@ import Academics from '@/components/Academics';
 import Skills from '@/components/Skills';
 import Extras from '@/components/Extras';
 import Projects from '@/components/Projects';
+import Certification from '@/components/Certification';
+
 
 export default function Home() {
   return (
@@ -15,6 +17,7 @@ export default function Home() {
         <Skills />
         <Projects/>
         <Extras />
+        <Certification/>
 
       </main>
     </div>

@@ -39,5 +39,11 @@
       "live": "https://spontaneous-cajeta-de71f8.netlify.app/",
       "github": "https://github.com/abirmajumdar/teacher-student-portal"
     }
+  ],
+  "certifications": [
+    {
+      "title": "React - Advanced Concepts",
+      "image": "/certification.png"
+    }
   ]
 }
